@@ -113,3 +113,5 @@ To see a list of the open-source software we use, refer to our [Acknowledgements
 If you are able and willing to support us financially, it will go a long way to help us achieve our goals and become more sustainable. We hate to ask for money, but running cloud server costs are not free.
 
 We currently only accept donations through Open Collective.
+
+
